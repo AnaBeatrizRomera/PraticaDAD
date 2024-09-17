@@ -1,0 +1,71 @@
+.fundo{
+    background-color: rgba(255, 255, 255, 1);
+    width: 20rem;
+    height: 29rem;
+    border-radius: 2%;
+
+}
+.titulo{
+    font-weight: 100%;
+    text-align: center;
+    padding-top: 3%;
+    color: rgba(58, 79, 57, 1);
+
+}
+.titulo1{
+    font-weight: 100%;
+    text-align: center;
+    padding-top: 3%;
+    color: black;
+
+}
+.certo{
+    display: flex;
+}
+.img{
+    margin-left: 22%;
+    margin-top: 14%;
+    width: 8%;
+    height: 12%;
+}
+.texto{
+    margin-left: 5%;
+    margin-top: 15%;
+}
+.errado{
+    display: flex;
+}
+.img1{
+    margin-left: 22%;
+    margin-top: 2%;
+    width: 8%;
+    height: 12%;
+    opacity: 0.5;
+}
+.texto1{
+    margin-left: 5%;
+    margin-top: 3%;
+    color:  rgba(45, 46, 46, 1);
+    opacity: 0.5;
+}
+.textinho{
+    margin-top: -5%;
+    text-align: center;
+    font-size: 50%;
+}
+
+.button{
+    padding: 3%;
+    color: white;
+    background-color: green;
+    border: solid 0px;
+    margin-left: 40%;
+}
+
+.button1{
+    padding: 3%;
+    color: white;
+    background-color: red;
+    border: solid 0px;
+    margin-left: 40%;
+}

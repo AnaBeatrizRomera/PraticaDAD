@@ -1,0 +1,7 @@
+.planos{
+    display: flex;
+    justify-content: space-around;
+}
+.alinhar{
+    margin-left: 4%;
+}

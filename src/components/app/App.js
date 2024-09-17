@@ -1,8 +1,10 @@
-
+import Main from '../main/Main';
 
 function App() {
   return (
-    <div></div>
+    <div>
+      <Main/>
+    </div>
   );
 }
 
